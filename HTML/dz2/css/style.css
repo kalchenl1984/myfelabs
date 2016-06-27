@@ -1,0 +1,32 @@
+div {
+	color: black;
+	font-size: 30px;
+	line-height: 150%;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 48px;
+	text-align: center;
+	line-height: 120%;
+}
+
+.wrapper{
+	width: 80%;
+	margin: 40px 10% 0px 10%;
+}
+
+.main_image{
+  margin: auto;
+}
+
+.image_container{
+	width: 100%;
+	text-align: center;
+}
+
+.solid_line{
+	margin: 20px 0px 20px 0px;
+	height: 3px;
+	background-color: black;
+}
